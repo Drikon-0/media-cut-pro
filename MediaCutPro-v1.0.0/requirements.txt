@@ -1,0 +1,35 @@
+# Media Cut Pro - Python Dependencies# Media Cut Pro - Python Dependencies
+
+# =====================================# Main application requirements
+
+
+
+# Core Application Dependencies# Core GUI Framework (Built into Python)
+
+# No external dependencies required for basic functionality# tkinter - Built-in Python GUI toolkit
+
+# Python 3.8+ with built-in tkinter is sufficient
+
+# Build Dependencies (for development only)
+
+# Build Dependencies (for creating executable)pyinstaller>=6.0.0
+
+pyinstaller>=6.0.0
+
+# Optional Dependencies
+
+# Optional Development Dependencies  # opencv-python>=4.8.0  # For enhanced video processing (not required)
+
+# (uncomment if needed for development)
+
+# pylint>=2.17.0        # Code linting# System Dependencies
+
+# black>=23.0.0         # Code formatting  # FFmpeg binaries are included in the ffmpeg/ directory
+
+# pytest>=7.0.0         # Testing framework# No additional installation required
+
+
+
+# Note: FFmpeg binaries are included in the ffmpeg/ directory# Python Version Requirement
+
+# Note: All required modules are part of Python standard library# python>=3.8

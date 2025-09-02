@@ -1,0 +1,38 @@
+
+Media Cut Pro v1.0.0 - Usage Instructions
+================================================
+
+🚀 Quick Start:
+1. Double-click MediaCutPro.exe to start the application
+2. Click "Choose File" to select your video/audio file
+3. Set the split duration in minutes
+4. Choose output format (auto-detected)
+5. Click "Start Splitting" to begin processing
+6. Use "Open Output" to view results
+
+📋 System Requirements:
+- Windows 10 or higher
+- At least 4GB RAM
+- 500MB free disk space
+- Video/audio files to split
+
+🔧 Features:
+- Supports MP4, AVI, MKV, MP3, WAV, and many more formats
+- Preserves original quality (no re-encoding)
+- Smart folder organization with timestamps
+- Real-time progress tracking with animations
+- Integrated FFmpeg processing engine
+- Embedded icon and resources
+
+🐛 Troubleshooting:
+- If the app doesn't start, try running as administrator
+- For large files, ensure sufficient disk space
+- Supported file formats are auto-detected
+- All FFmpeg tools are embedded in the executable
+
+📧 Support:
+- GitHub: https://github.com/yourusername/media-cut-pro
+- Author: Drikon
+- Version: 1.0.0
+
+Thank you for using Media Cut Pro! 🎬
